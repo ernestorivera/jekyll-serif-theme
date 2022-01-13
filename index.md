@@ -1,13 +1,11 @@
 ---
-title: Jekyll Serif Theme
+title: Solace Care Services
 layout: home
-description: test.
+description: 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
-
-TEST
+# Solace Care Services
