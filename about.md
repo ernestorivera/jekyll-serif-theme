@@ -5,17 +5,13 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Solace Care Services was founded with you in mind. We are client driven, and focused on the best quality of care.
 
-## Ne verba patulosque numen vix libet
+## Our Mission
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+To offer our clients personalized in-home support services, assisting the elderly, disabled and others needing assistance to maintain quality of life. Our services support the individual’s choices and preferences to be in their own home in order to maintain their dignity and independence. We assist clients in a spirit of concern  for their welfare, gaining satisfaction and a sense of pride for the value that we add to their lives.
 
-1. Cum det dixit Parcarum qui spemque est
+<!-- 1. Cum det dixit Parcarum qui spemque est
 2. Exit ex huic
 3. Quod consiste agitataque claustraque vicina videt lacertis
 4. Loquor videt
@@ -49,4 +45,4 @@ Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+tamen lentis spectat, Titania est animo. -->
