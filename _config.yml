@@ -1,4 +1,4 @@
-base: ''
+baseurl: ''
 permalink: pretty
 title: 'Jekyll Serif'
 
