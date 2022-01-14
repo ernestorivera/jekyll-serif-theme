@@ -1,6 +1,6 @@
 [
   {
-    "title": "Free Consultation",
+    "title": "Profesional Certification",
     "description": "New clients receive an obligation free consultation.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Locations Served",
+    "description": "We proudly serve Miami, Homestead.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Flexible Payment Options",
+    "description": "We accept all major insurances, and offer private pay options.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
