@@ -5,7 +5,7 @@ featured: true
 weight: 2
 ---
 
-The goal of our companion care is emotional support and socialization.
+The goal of companion care is primarily emotional support and socialization and offering non-medical services to older adults or people with disabilities. 
 
 # Companion Care Services 
 
